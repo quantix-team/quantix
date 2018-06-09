@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Quantix
+Comment=Quantix P2P Cryptocurrency
+Exec=quantix-qt %u
+Terminal=false
+Type=Application
+Icon=quantix128
+MimeType=x-scheme-handler/quantix;
+Categories=Office;Finance;
+Name[en_US]=quantix-qt.desktop

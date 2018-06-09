@@ -1,0 +1,20 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/quantix_bg.qm</file>
+        <file alias="de">locale/quantix_de.qm</file>
+        <file alias="en">locale/quantix_en.qm</file>
+        <file alias="es">locale/quantix_es.qm</file>
+        <file alias="fi">locale/quantix_fi.qm</file>
+        <file alias="fr">locale/quantix_fr.qm</file>
+        <file alias="it">locale/quantix_it.qm</file>
+        <file alias="ja">locale/quantix_ja.qm</file>
+        <file alias="pl">locale/quantix_pl.qm</file>
+        <file alias="pt">locale/quantix_pt.qm</file>
+        <file alias="ru">locale/quantix_ru.qm</file>
+        <file alias="sk">locale/quantix_sk.qm</file>
+        <file alias="sv">locale/quantix_sv.qm</file>
+        <file alias="vi">locale/quantix_vi.qm</file>
+        <file alias="zh_CN">locale/quantix_zh_CN.qm</file>
+        <file alias="zh_TW">locale/quantix_zh_TW.qm</file>
+    </qresource>
+</RCC>

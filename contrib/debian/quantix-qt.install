@@ -1,0 +1,6 @@
+usr/local/bin/quantix-qt usr/bin
+share/pixmaps/quantix32.xpm usr/share/pixmaps
+share/pixmaps/quantix16.xpm usr/share/pixmaps
+share/pixmaps/quantix128.png usr/share/pixmaps
+debian/quantix-qt.desktop usr/share/applications
+debian/quantix-qt.protocol usr/share/kde4/services/
